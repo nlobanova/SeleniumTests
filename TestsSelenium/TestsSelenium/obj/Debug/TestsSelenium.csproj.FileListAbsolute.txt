@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\bin\Debug\chromedriver.exe
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\bin\Debug\TestsSelenium.dll
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\bin\Debug\TestsSelenium.pdb
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\bin\Debug\nunit.framework.dll
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\bin\Debug\WebDriver.dll
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\bin\Debug\WebDriver.Support.dll
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\bin\Debug\nunit.framework.xml
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\bin\Debug\WebDriver.xml
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\bin\Debug\WebDriver.Support.xml
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\obj\Debug\TestsSelenium.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\obj\Debug\TestsSelenium.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\obj\Debug\TestsSelenium.csproj.CopyComplete
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\obj\Debug\TestsSelenium.dll
+C:\Users\User\source\repos\TestsSelenium\TestsSelenium\obj\Debug\TestsSelenium.pdb

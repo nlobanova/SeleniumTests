@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=355ba7ea_002D7ef5_002D48bb_002Da266_002De16124ee6463/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::37B4D6B5-955C-44AE-806D-6ABAA69BE939::.NETFramework,Version=v4.7.2::TestsSelenium.TestsWebSiteSeleniumPractice&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4602b8a1_002D8d3e_002D45bc_002Da7a0_002D1bafb5403a86/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ComputerSite_EmailWithoutTopLevelDomainWithoutPoint_ErrorInvalidEmail" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::37B4D6B5-955C-44AE-806D-6ABAA69BE939::.NETFramework,Version=v4.7.2::TestsSelenium.TestsWebSiteSeleniumPractice&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fca209a6_002D7c63_002D49c3_002Da985_002D6a3538e3c771/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::37B4D6B5-955C-44AE-806D-6ABAA69BE939::.NETFramework,Version=v4.7.2::TestsSelenium.TestsWebSiteSeleniumPractice.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::37B4D6B5-955C-44AE-806D-6ABAA69BE939::.NETFramework,Version=v4.7.2::TestsSelenium.TestsWebSiteSeleniumPractice.test1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
